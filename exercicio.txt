@@ -1,0 +1,14 @@
+ok 1) adicione um reset para todos os elementos da página de forma que margin e padding fiquem zeradas.
+ok 2) adicione uma estilização para todas as divs de forma que a margem lateral esquerda e inferior seja de 10px
+ok 3) Na div com a classe exercicio01 adicione uma borda pontilhada (dotted) de 3 pixeis na cor verde.
+ok 4) Na div com a classe exercicio02 adicione uma borda lateral esquerda de 3 pixeis sólida vermelha, uma borda lateral direita de 10 pixeis solida preta, uma borda superior pontilhada (dotted) com tamanho de 5 px na cor azul;
+ok 5) Adicione uma margem lateral direita de 20px na div com a classe exercicio03
+ok 6)adicione um margem em todos os lados da div com classe igual a exercicio 04 com tamanho de 50px. Utilize a forma contraída.
+ok 7) Adicione um padding super de 50px da div de classe exercicio 05
+ok 8) Adicione uma borda arredondada de 10px, com a largura da borda de 3px solida na cor vermelha na div com a classe exercicio 06
+ok 9) crie uma borda circular ao redor da div com a classe exercício 07
+ok 10) crie uma borda sombreada na lateral direita e parte superior com deslocamento da borda de 10px , arredondamento de 20px e cor da borda laranja (orange) na div com a classe exercício 08
+11) configure o tamanho das divs exercicio09 e exercício09-filho de forma que a div filha fique exatamente dentro da div pai, alterando as propriedades de margin e padding das duas divs sem alterar o box-sizing padrão, configure a borda das duas divs para o tamanho de 5px solid orange.
+12) altere o box-sizing das classes exercicio10 e exercício10-filho para o valor border-box. Em seguida configure o tamanho (width e height) para 200px das duas div e altere as propriedades de margin e padding para que a div com a classe exercício10-filho fique exatamente com o mesmo tamanho da div pai. configure o tamanho das duas div para 3px solid yellow.
+
+ok obs. (todas as div devem possuir uma largura inicial de 100px e altura inicial de 100px) 
