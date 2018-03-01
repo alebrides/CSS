@@ -47,13 +47,32 @@ div{
     box-shadow: 10px -10px orange;
 }
 
-.exercicio09,.exercicio09-filho{
-    border: 5px solid orange;
+.exercicio09{
+    border-width: 5px;
+    border-style: solid;
+    border-color: orange;
 }
 
-.exercicio10,.exercicio10-filho{
+.exercicio09-filho{
+    border-width: 5px;
+    border-style: solid;
+    border-color: orange;
+}
+
+.exercicio10{
     width: 200px;
     height: 200px;
     box-sizing: border-box;
-    border:3px solid yellow;
+    border-width: 3px;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.exercicio10-filho{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border-width: 3px;
+    border-style: solid;
+    border-color: yellow;
 }
