@@ -1,0 +1,133 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width:100%;
+}
+
+.row{
+    width: 100%;
+    display:flex;
+    background-color: blue;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 10px;
+}
+
+.column{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: 8.33%;
+    padding: 10px;
+}
+
+.column2{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 2 * 8.33%);
+    padding: 10px;
+}
+
+.column3{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 3 * 8.33%);
+    padding: 10px;
+}
+
+.column4{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 4 * 8.33%);
+    padding: 10px;
+}
+
+.column5{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 5 * 8.33%);
+    padding: 10px;
+}
+
+.column6{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 6 * 8.33%);
+    padding: 10px;
+}
+
+.column7{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 7 * 8.33%);
+    padding: 10px;
+}
+
+.column8{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 8 * 8.33%);
+    padding: 10px;
+}
+
+.column9{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 9 * 8.33%);
+    padding: 10px;
+}
+
+.column10{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 10 * 8.33%);
+    padding: 10px;
+}
+
+.column11{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 11 * 8.33%);
+    padding: 10px;
+}
+
+.column12{
+    background-color: aquamarine;
+    min-height: 10px;
+    flex-basis: calc( 12 * 8.33%);
+    padding: 10px;
+}
+
+.column > div,
+.column2 > div,
+.column3 > div,
+.column4 > div,
+.column5 > div,
+.column6 > div,
+.column7 > div,
+.column8 > div,
+.column9 > div,
+.column10 > div,
+.column11 > div,
+.column12 > div{
+    border: 1px solid black;
+}
+/*Mobile*/
+@media only screen and (min-width: 790px){
+    .column,
+    .column2,
+    .column3,
+    .column4,
+    .column5,
+    .column6,
+    .column7,
+    .column8,
+    .column9,
+    .column10,
+    .column11,
+    .column12,
+}
